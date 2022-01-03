@@ -1,21 +1,30 @@
 header {
-    font-family: Futura;
+    font-family: 'Times New Roman';
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
-    padding:15px;
-   }  
+    margin-left: auto;
+    margin-right: auto;
+   } 
+   
+   header.secondary {   
+    padding-left: 75px;
+
+    }
 
 h1 {
     padding:10px;
-    font-family: Futura;
+    font-family: 'Times New Roman';
     font-weight: bold;
-    font-size: 28px;
+    font-size: 20px;
     color: #AC2B37; 
 }
 
 p {
-    padding:10px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000; 
 }
 
 body {
@@ -27,7 +36,7 @@ body {
 #RYAN{
     /*center the image*/
     display: block; 
-    width: 50%;
+    width: 25%;
     margin-left: auto;
     margin-right: auto;
 }
