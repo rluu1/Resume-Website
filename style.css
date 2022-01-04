@@ -28,7 +28,7 @@ p {
 }
 
 body {
-    background-color: #A9B0B7;
+    background-color: #ffffff;
     font-family: Arial;
     font-size: 14px;
 }
@@ -44,10 +44,12 @@ body {
 #main_nav ul { 
     padding: 20px;
     margin: 10px;
+    text-align: center;
  }
 
 #main_nav li  {
   list-style-type: none; /* remove bullet points */ 
+  text-align: center;
 }
 
 #main_nav li a {
