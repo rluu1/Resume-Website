@@ -8,6 +8,7 @@ ul {
 
 li {
   float: right;
+  margin-right: 20px;
   border-right: 1px solid #bbb;
 }
 
@@ -32,6 +33,18 @@ li a:hover {
 li:last-child {
   border-right: none;
 }
-
+body {
+  background: beige
+}
 h1 {
-  
+  color:black;
+  font-family: fantasy;
+}
+p {
+  color: black; 
+  font-family: Garamond;
+}
+section {
+display: -webkit-flex;
+display: flex;
+}
