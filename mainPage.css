@@ -8,7 +8,6 @@ ul {
 
 li {
   float: right;
-  margin-right: 20px;
   border-right: 1px solid #bbb;
 }
 
@@ -22,7 +21,7 @@ li a {
 }
 
 .active {
-  background-color: #39EFFF;
+  background-color: mintcream;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -38,7 +37,7 @@ body {
 }
 h1 {
   color:black;
-  font-family: fantasy;
+  font-family: 'Courier New';
 }
 p {
   color: black; 
