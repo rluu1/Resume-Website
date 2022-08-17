@@ -22,6 +22,7 @@ li a {
 
 .active {
   background-color: mintcream;
+  color: black;
 }
 
 /* Change the link color to #111 (black) on hover */
